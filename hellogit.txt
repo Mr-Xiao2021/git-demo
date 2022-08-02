@@ -10,4 +10,3 @@ test1-update
 ssh-update
 local change
 git idea test_1
-git idea test_2
